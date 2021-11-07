@@ -6,4 +6,4 @@ if [[ $resultado == "s" ]]; then
 elif [[ $resultado == "n" ]]; then
    echo "Esperando respuesta "
 fi
-#Prueba
+#Prueba 
